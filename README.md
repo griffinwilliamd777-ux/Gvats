@@ -1,4 +1,3 @@
-Signal Factory
 Signal Factory is a modular, production-ready pipeline for generating, analyzing, pricing, and distributing market signals. It integrates AI-driven Overseer logic, Human Intelligence Amplification (HIA), and a central Vault for storage, auditing, and distribution. The system is fully deployable on Railway, scalable, and secure.
 Table of Contents
 Features
